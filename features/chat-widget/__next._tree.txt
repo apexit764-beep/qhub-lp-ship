@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0bbffy432dgy9.css","style"]
+:HL["/_next/static/chunks/0oxixf50pet88.css","style"]
 :HL["/_next/static/chunks/2e44b_73xsce0.css","style"]
 :HL["/_next/static/media/441492499fc86682-s.p.1fbvi_fot8u4l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/5ad8fdb5805e9b4a-s.p.0-uv4l43gdmt7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
